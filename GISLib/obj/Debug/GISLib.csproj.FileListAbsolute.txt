@@ -1,0 +1,14 @@
+E:\Temp\Code006\Realease\GISLib.dll
+E:\Temp\Code006\Realease\GISLib.pdb
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.Properties.Resources.resources
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.csproj.GenerateResource.Cache
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.dll
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.pdb
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.csprojResolveAssemblyReference.cache
+E:\Work\2018\MapinfoLib\Code02\Realease\GISLib.dll
+E:\Work\2018\MapinfoLib\Code02\Realease\GISLib.pdb
+E:\Work\2018\MapinfoLib\Code02\GISLib\obj\Debug\GISLib.csprojResolveAssemblyReference.cache
+E:\Work\2018\MapinfoLib\Code02\GISLib\obj\Debug\GISLib.Properties.Resources.resources
+E:\Work\2018\MapinfoLib\Code02\GISLib\obj\Debug\GISLib.csproj.GenerateResource.Cache
+E:\Work\2018\MapinfoLib\Code02\GISLib\obj\Debug\GISLib.dll
+E:\Work\2018\MapinfoLib\Code02\GISLib\obj\Debug\GISLib.pdb

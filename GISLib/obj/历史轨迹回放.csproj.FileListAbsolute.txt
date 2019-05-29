@@ -1,0 +1,54 @@
+E:\MyDemo\历史轨迹回放\bin\Debug\标准mapxtreme.exe.config
+E:\MyDemo\历史轨迹回放\obj\Debug\标准mapxtreme.exe
+E:\MyDemo\历史轨迹回放\obj\Debug\标准mapxtreme.pdb
+E:\MyDemo\历史轨迹回放\bin\Debug\标准mapxtreme.exe
+E:\MyDemo\历史轨迹回放\bin\Debug\标准mapxtreme.pdb
+E:\MyDemo\历史轨迹回放\obj\Debug\ResolveAssemblyReference.cache
+E:\MyDemo\历史轨迹回放\obj\Debug\标准mapxtreme.MapForm1.resources
+E:\MyDemo\历史轨迹回放\obj\Debug\标准mapxtreme.Properties.Resources.resources
+E:\MyDemo\历史轨迹回放\obj\Debug\历史轨迹回放.csproj.GenerateResource.Cache
+D:\xaEPGIS\历史轨迹回放\bin\Release\标准mapxtreme.exe.config
+D:\xaEPGIS\历史轨迹回放\bin\Release\标准mapxtreme.exe
+D:\xaEPGIS\历史轨迹回放\bin\Release\标准mapxtreme.pdb
+D:\xaEPGIS\历史轨迹回放\obj\Release\ResolveAssemblyReference.cache
+D:\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.MapForm1.resources
+D:\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.Properties.Resources.resources
+D:\xaEPGIS\历史轨迹回放\obj\Release\历史轨迹回放.csproj.GenerateResource.Cache
+D:\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.exe
+D:\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.pdb
+D:\xaEPGIS\历史轨迹回放\bin\Debug\标准mapxtreme.exe.config
+D:\xaEPGIS\历史轨迹回放\bin\Debug\标准mapxtreme.exe
+D:\xaEPGIS\历史轨迹回放\bin\Debug\标准mapxtreme.pdb
+D:\xaEPGIS\历史轨迹回放\obj\Debug\ResolveAssemblyReference.cache
+D:\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.MapForm1.resources
+D:\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.Properties.Resources.resources
+D:\xaEPGIS\历史轨迹回放\obj\Debug\历史轨迹回放.csproj.GenerateResource.Cache
+D:\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.exe
+D:\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.pdb
+D:\xaEPGIS\历史轨迹回放\bin\Debug\ZhongMing.dll
+D:\xaEPGIS\历史轨迹回放\bin\Debug\DevComponents.DotNetBar2.dll
+D:\xaEPGIS\历史轨迹回放\bin\Debug\ZhongMing.pdb
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Debug\标准mapxtreme.exe.config
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Debug\标准mapxtreme.exe
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Debug\ZhongMing.dll
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Debug\ZhongMing.pdb
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.MapForm1.resources
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.Properties.Resources.resources
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Debug\历史轨迹回放.csproj.GenerateResource.Cache
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.exe
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Release\标准mapxtreme.exe.config
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Release\标准mapxtreme.exe
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Release\标准mapxtreme.pdb
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Release\ZhongMing.dll
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Release\DevComponents.DotNetBar2.dll
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\bin\Release\ZhongMing.pdb
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.MapForm1.resources
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.Properties.Resources.resources
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Release\历史轨迹回放.csproj.GenerateResource.Cache
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.exe
+C:\Documents and Settings\liyafei\桌面\xaEPGIS\历史轨迹回放\obj\Release\标准mapxtreme.pdb

@@ -1,0 +1,9 @@
+bin\Debug\标准mapxtreme.exe.config
+bin\Debug\标准mapxtreme.exe
+bin\Debug\标准mapxtreme.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\标准mapxtreme.MapForm1.resources
+obj\Debug\标准mapxtreme.Properties.Resources.resources
+obj\Debug\标准mapxtreme.csproj.GenerateResource.Cache
+obj\Debug\标准mapxtreme.exe
+obj\Debug\标准mapxtreme.pdb

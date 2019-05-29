@@ -1,0 +1,45 @@
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.exe.config
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.exe
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.MapForm1.resources
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.Properties.Resources.resources
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.csproj.GenerateResource.Cache
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.exe
+C:\Documents and Settings\zm02\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.pdb
+F:\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.exe.config
+F:\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.exe
+F:\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.pdb
+F:\MyDemo\标准mapxtreme\obj\Debug\ResolveAssemblyReference.cache
+F:\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.MapForm1.resources
+F:\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.Properties.Resources.resources
+F:\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.csproj.GenerateResource.Cache
+F:\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.exe
+F:\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.exe.config
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.exe
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.MapForm1.resources
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.Properties.Resources.resources
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.csproj.GenerateResource.Cache
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.exe
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\x86\Release\标准mapxtreme.exe.config
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\x86\Release\标准mapxtreme.exe
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\x86\Release\标准mapxtreme.pdb
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Release\标准mapxtreme.MapForm1.resources
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Release\标准mapxtreme.Properties.Resources.resources
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Release\标准mapxtreme.csproj.GenerateResource.Cache
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Release\标准mapxtreme.exe
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Release\标准mapxtreme.pdb
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\x86\Debug\标准mapxtreme.exe.config
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\x86\Debug\标准mapxtreme.exe
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\bin\x86\Debug\标准mapxtreme.pdb
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Debug\标准mapxtreme.MapForm1.resources
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Debug\标准mapxtreme.Properties.Resources.resources
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Debug\标准mapxtreme.csproj.GenerateResource.Cache
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Debug\标准mapxtreme.exe
+C:\Documents and Settings\yafei\桌面\MyDemo\标准mapxtreme\obj\x86\Debug\标准mapxtreme.pdb

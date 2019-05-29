@@ -1,0 +1,7 @@
+E:\WORK\2014\MapxtremeJW\Code\Realease\GISLib.pdb
+E:\WORK\2014\MapxtremeJW\Code\GISLib\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\2014\MapxtremeJW\Code\GISLib\obj\Debug\GISLib.Properties.Resources.resources
+E:\WORK\2014\MapxtremeJW\Code\GISLib\obj\Debug\GISLib.csproj.GenerateResource.Cache
+E:\WORK\2014\MapxtremeJW\Code\GISLib\obj\Debug\GISLib.pdb
+E:\WORK\2014\MapxtremeJW\Code\Realease\GISLib.dll
+E:\WORK\2014\MapxtremeJW\Code\GISLib\obj\Debug\GISLib.dll
