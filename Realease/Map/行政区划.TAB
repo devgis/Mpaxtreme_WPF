@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 9
+    NAME Char (254) ;
+    ADMINCODE Char (6) ;
+    KIND Char (4) ;
+    CITYADCODE Char (6) ;
+    PROADCODE Char (6) ;
+    CITYNAME Char (254) ;
+    PRONAME Char (254) ;
+    SHAPE_LENG Float ;
+    SHAPE_AREA Float ;

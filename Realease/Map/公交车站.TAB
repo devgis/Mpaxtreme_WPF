@@ -1,0 +1,32 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 25
+    Name Char (58) ;
+    PYName Char (18) ;
+    MapID Char (8) ;
+    Kind Char (4) ;
+    address Char (58) ;
+    Telephone Char (18) ;
+    Display_X Char (12) ;
+    Display_Y Char (12) ;
+    ZipCode Char (6) ;
+    AdminCode Char (6) ;
+    POI_ID Char (13) ;
+    Importance Char (1) ;
+    VAdmincode Char (12) ;
+    ChainCode Char (4) ;
+    Prior_Auth Char (6) ;
+    Pa_POI_ID Char (140) ;
+    PaCh_Relat Char (1) ;
+    LinkID Char (13) ;
+    Side Char (1) ;
+    PID Char (15) ;
+    Tel_Type Char (200) ;
+    Food_Type Char (50) ;
+    Airpt_Code Char (3) ;
+    Open_24H Char (1) ;
+    Data_Src Char (1) ;

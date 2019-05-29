@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+!edit_version 450
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 5
+    NAME Char (254) ;
+    OBJECTID Decimal (11, 0) ;
+    PROADCODE Char (6) ;
+    SHAPE_LENG Float ;
+    SHAPE_AREA Float ;

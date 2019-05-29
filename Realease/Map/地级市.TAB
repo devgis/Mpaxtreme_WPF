@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 11
+    NAME Char (254) ;
+    CLASS Char (1) ;
+    ADMINCODE Char (9) ;
+    CENTER Char (1) ;
+    POPULATION Char (6) ;
+    LINKID Char (13) ;
+    SIDE Char (1) ;
+    DUMMY Char (1) ;
+    NAME_1 Char (254) ;
+    POINT_X Float ;
+    POINT_Y Float ;

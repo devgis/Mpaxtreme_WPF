@@ -1,0 +1,35 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 28
+    PATHNAME Char (60) ;
+    ID Char (13) ;
+    KIND_NUM Char (2) ;
+    KIND Char (30) ;
+    WIDTH Char (3) ;
+    DIRECTION Char (1) ;
+    TOLL Char (1) ;
+    FUNCCLASS Char (2) ;
+    LENGTH Char (8) ;
+    DETAILCITY Char (1) ;
+    THROUGH Char (1) ;
+    ADMINCODEL Char (6) ;
+    ADMINCODER Char (6) ;
+    ONEWAYCRID Char (13) ;
+    ACCESSCRID Char (13) ;
+    SPEEDCLASS Char (1) ;
+    LANENUMS2E Char (2) ;
+    LANENUME2S Char (2) ;
+    LANENUM Char (1) ;
+    SPDLMTS2E Char (4) ;
+    SPDLMTE2S Char (4) ;
+    SPDSRCS2E Char (1) ;
+    SPDSRCE2S Char (1) ;
+    PARKFLAG Char (1) ;
+    PHYLANES2E Char (2) ;
+    PHYLANEE2S Char (2) ;
+    SHAPE_LENG Float ;
+    一级分类 Char (50) ;
